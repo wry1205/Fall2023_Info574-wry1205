@@ -1,0 +1,4 @@
+﻿Day,Outlook,Temperature,Humidity,Windy
+Day After Tomorrow,Overcast,Cool,High,FALSE
+Tomorrow,Rainy,Mild,High,TRUE
+Today,Sunny,Hot,Normal,FALSE
